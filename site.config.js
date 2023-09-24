@@ -1,18 +1,17 @@
 module.exports = {
   // where it all starts -- the site's root Notion page (required)
-  rootNotionPageId: '6a76fdd9ec6d4ae2855aa790d620eec4',
-
+  rootNotionPageId: '1e322d78f01e44659acd1ad6892eb91b',
   // if you want to restrict pages to a single notion workspace (optional)
   // (this should be a Notion ID; see the docs for how to extract this)
   rootNotionSpaceId: null,
 
   // basic site info (required)
-  name: '菜饼的技术博客',
+  name: '图蒙的技术博客',
   domain: 'szufrank.top',
-  author: '菜饼同学',
+  author: '图蒙',
 
   // open graph metadata (optional)
-  description: '菜饼同学: 专注硬核技术，校招打法，个人认知体系成长',
+  description: '莫向外求',
   socialImageTitle: '菜饼同学',
   socialImageSubtitle: 'Hello World! 👋',
 
@@ -61,8 +60,8 @@ module.exports = {
     '/common-question': '8ea9f59839d04750b08fa7e13045ab08',
     '/how-git-work': 'Git-c3260ebf0ad04d9d8d2081bf1f3bf2b8',
     '/algorithm-sort': '7f7769466b5847dab94716dc0d9c1ac4',
-    '/algorithm-sort-js' : 'JavaScript-f5b50f39a66645ec97dcd409497ed2a9',
-    '/algorithm-binary-tree-traversal' :'07df0ddf43664a758fb4725070b71854',
+    '/algorithm-sort-js': 'JavaScript-f5b50f39a66645ec97dcd409497ed2a9',
+    '/algorithm-binary-tree-traversal': '07df0ddf43664a758fb4725070b71854',
     '/network': '926b875211b44f978d39200f8d39ef1d',
     '/database': '337b1694b9344af9a424136b87827ad3',
     '/advanced-algorithm': '854a54c0567944488842e3f01faf6ab3',
